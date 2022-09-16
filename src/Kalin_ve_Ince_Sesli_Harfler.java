@@ -36,12 +36,5 @@ public class Kalin_ve_Ince_Sesli_Harfler {
             System.out.println(karakter+"'i "+"ne ince sesli ne de kalin sesli bir harfdir.");
         }
 
-
-
-
-
-
-
-
     }
 }
