@@ -1,0 +1,12 @@
+public class While_Dongusu {
+    public static void main(String[] args)
+    {
+        int i=0;
+        while (i<5)
+        {
+            System.out.println("New technology --> AI");
+            i++;
+        }
+        System.out.println("While loop finished.");
+    }
+}
